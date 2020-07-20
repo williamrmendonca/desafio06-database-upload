@@ -1,10 +1,10 @@
 <img alt="GoStack" src="https://res.cloudinary.com/w7apps/image/upload/v1595077665/gostack_header_dkgwqg.png" />
 
 <h3 align="center">
-  Desafio 05: Primeiro projeto Node.js
+  Desafio 06: Banco de dados e upload de arquivos no Node.js
 </h3>
 
-<blockquote align="center">“Para quem fica melhor a cada dia, ficar pronto é utopia”!</blockquote>
+<blockquote align="center">“Só deseje as coisas as quais você está disposto a lutar”!</blockquote>
 
 <p align="center">
   <a href="https://www.instagram.com/williamrmendonca">
@@ -14,9 +14,10 @@
 
 ## :computer: Projeto (Estudo)
 
-Nesse desafio, você deve criar uma aplicação para continuar treinando o que você aprendeu até agora no Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
+Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, treinando o que você aprendeu até agora no Node.js junto ao TypeScript, mas dessa vez incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer!
 
-Essa será uma aplicação para armazenar transações financeiras de entrada e saída, que deve permitir o cadastro e a listagem dessas transações.
+Essa será uma aplicação que deve armazenar transações financeiras de entrada e saída e permitir o cadastro e a listagem dessas transações, além de permitir a criação de novos registros no banco de dados a partir do envio de um arquivo csv.
+
 
 ## :rocket: Construído com
 
